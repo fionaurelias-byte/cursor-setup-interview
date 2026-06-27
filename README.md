@@ -1,5 +1,5 @@
 <<<<<<< HEAD
- # cursor_setup_interview
+ # Cursor Setup Interview for 100 Hires by Fiona A.
 
  ## Tools Installed:
  - Cursor App AI Editor
