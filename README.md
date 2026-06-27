@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # cursor-setup_interview
 
  ## Tools Installed:
@@ -19,3 +20,6 @@
 
 ### 2. Creating a GitHub Repository and Importing It Into Cursor
 **Solution:** Watched a Youtube video on how to create a repository and solved that issue quickly.
+=======
+# cursor-setup-interview
+>>>>>>> cbec269d77c4a390f4213f2325f732b80e61e3ee
